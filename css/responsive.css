@@ -1,0 +1,619 @@
+@media (max-width: 480px){
+    .imam .col-lg-4 {
+        flex: 0 0 auto;
+        width: 31.33333333%;
+        margin: 4px;
+        padding-left: 7px;
+    }
+    .menu-bg ul li{
+        text-align: center;
+    }
+    .navbar-nav li a::after {
+        height: 0px;
+        width: 0%;
+        left: 0;
+       
+    }
+    .skills-inner{
+        height: 200px;
+        width: 200px;
+        background: white;
+        margin-bottom: 30px;
+        border-radius: 50%;
+        border: 3px solid rgb(248, 11, 248);
+        color: black;
+        font-family: cursive;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .ruh:after{
+        height: 0px;
+    }
+    .name {
+        padding-top: 40px;
+        text-align: center;
+    }
+    #benner {
+        padding: 60px 0 0 0;
+        
+    }
+    .about-text{
+       padding: 40px 40px 40px 40px;
+    }
+    .ben-icon {
+        text-align: center;
+        padding-left: 50px ;
+        /* padding-left: 20px; */
+        z-index: 88;
+    }
+    .name h2 {
+        padding-bottom: 5px;
+        font-size: 22px;
+    }
+    .name h1 {
+        font-size: 45px;
+    
+    }
+    .name h3 span {
+        font-size: 34px;
+    }
+    .name h3 {
+        font-size: 31px;
+    }
+    .name p {
+        padding-right: 82.5px;
+        font-size: 19px;
+        line-height: 27px;
+        padding-bottom: 10px;
+        padding-left: 82.5px;
+    }
+    .benner-btn a {
+        padding: 14px 23px;
+        
+    }
+    .menu-bg{
+        background-color: rgb(19, 1, 19,0.8);
+    }
+    #benner .container{
+        /* border: 1px solid rgb(94, 6, 94); */
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+        padding-left: 10px;
+    }
+    
+    #about .container {
+        padding: 10px;
+        padding-top: 0;
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+    }
+    #about {
+        padding: 20px 0 0 0;
+    }
+    .about-content h2 {
+        font-size: 22px;
+    }
+    .about-content h4 {
+        font-size: 17px;
+        font-family: raleway;
+    }
+    .legit {
+        padding-top: 0;
+    }
+    .exp{
+        height: 390px;
+        width:360px ;
+        background: white;
+        color: #302c2c;
+        margin-top: 30px !important;
+        position: relative;
+        margin-bottom: 20px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 575.98px){ 
+    .menu-bg ul li{
+        text-align: center;
+    }
+    .navbar-nav li a::after {
+        height: 0px;
+        width: 0%;
+        left: 0;
+       
+    }
+    .skills-inner{
+        height: 200px;
+        width: 200px;
+        background: white;
+        margin-bottom: 30px;
+        border-radius: 50%;
+        border: 3px solid rgb(248, 11, 248);
+        color: black;
+        font-family: cursive;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .ruh:after{
+        height: 0px;
+    }
+    .about-text{
+        padding: 40px 40px 40px 40px;
+     }
+    #service .container{
+     
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+    }
+    .name {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .ben-icon {
+        text-align: center;
+        padding-left: 60px ;
+        /* padding-left: 20px; */
+        z-index: 88;
+    }
+    #benner {
+        padding: 60px 0 0 0;
+        
+    }
+    .name h2 {
+        padding-bottom: 5px;
+        font-size: 22px;
+    }
+    .name h1 {
+        font-size: 45px;
+    
+    }
+    .name h3 span {
+        font-size: 34px;
+    }
+    .name h3 {
+        font-size: 31px;
+    }
+    .name p {
+        padding-right: 82.5px;
+        font-size: 19px;
+        line-height: 27px;
+        padding-bottom: 10px;
+        padding-left: 82.5px;
+    }
+    .benner-btn a {
+        padding: 14px 23px;
+        
+    }
+    .menu-bg{
+        background-color: rgb(19, 1, 19,0.8);
+    }
+    #benner .container{
+        /* border: 1px solid rgb(94, 6, 94); */
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+        padding-left: 10px;
+    }
+    
+    #about .container {
+        padding: 10px;
+        padding-top: 0;
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+    }
+    #about {
+        padding: 20px 0 0 0;
+    }
+    .about-content h2 {
+        font-size: 22px;
+    }
+    .about-content h4 {
+        font-size: 17px;
+        font-family: raleway;
+    }
+    .legit {
+        padding-top: 0;
+    }
+    .imam .col-lg-4 {
+        flex: 0 0 auto;
+        width: 31.33333333%;
+        margin: 4.5px;
+    }
+    .about-text{
+        padding: 40px 40px 40px 40px;
+     }
+    .about-text {
+        background: rgb(251, 24, 251);
+        font-size: 22px;
+        line-height: 33px;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        z-index: 22;
+    }
+    .about-btn a {
+        padding: 16px 25px;
+        color: white;
+        background-color: rgb(252, 21, 252);
+        margin-top: 10px;
+        font-size: 23px;
+        transition: 0.5s;
+        border-radius: 4px;
+    }
+    #skills .container {
+        padding: 0px 40px 0 40px;
+        padding-top: 0;
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+    }
+    .maruf{
+        margin-bottom: 30px;
+    }
+    .exp{
+        height: 400px;
+        width:370px ;
+        background: white;
+        color: #302c2c;
+        margin-top: 30px !important;
+        position: relative;
+        margin-bottom: 20px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .menu-bg ul li{
+        text-align: center;
+    }
+    .navbar-nav li a::after {
+        height: 0px;
+        width: 0%;
+        left: 0;
+       
+    }
+    .skills-inner{
+        height: 200px;
+        width: 200px;
+        background: white;
+        margin-bottom: 30px;
+        border-radius: 50%;
+        border: 3px solid rgb(248, 11, 248);
+        color: black;
+        font-family: cursive;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .ruh:after{
+        height: 0px;
+    }
+    .about-text{
+        padding: 40px 40px 40px 40px;
+     }
+    .menu-bg{
+        background-color: rgb(19, 1, 19,0.8);
+    }
+    .name {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .name h2 {
+        padding-bottom: 5px;
+        font-size: 22px;
+    }
+    .name h1 {
+        font-size: 45px;
+    
+    }
+    #benner .container{
+        padding-top: 40px;
+        margin-top: 40px;
+    }
+    .name p {
+        padding-right: 82.5px;
+        font-size: 19px;
+        line-height: 27px;
+        padding-bottom: 10px;
+        padding-left: 82.5px;
+    }
+    .name h3 span {
+        font-size: 34px;
+    }
+    .name h3 {
+        font-size: 31px;
+    }
+    .benner-btn a {
+        padding: 14px 23px;
+        
+    }
+    #benner .container {
+        padding: 10px;
+        padding-top: 0;
+    }
+    #benner {
+        padding: 70px 0 0 0;
+    }
+    #about .container {
+        padding: 10px;
+      
+    }
+    #about {
+        padding: 20px 0 0 0;
+    }
+    .about-content h2 {
+        font-size: 22px;
+    }
+    .about-content h4 {
+        font-size: 17px;
+        font-family: raleway;
+    }
+    .legit {
+        padding-top: 0;
+    }
+    .imam .col-lg-4 {
+        flex: 0 0 auto;
+        width: 31.33333333%;
+        margin: 5px;
+    }
+    .about-text{
+        padding: 40px 40px 40px 40px;
+     }
+    .about-text {
+        background: rgb(251, 24, 251);
+        font-size: 22px;
+        line-height: 33px;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        z-index: 22;
+    }
+    .about-btn a {
+        padding: 16px 25px;
+        color: white;
+        background-color: rgb(252, 21, 252);
+        margin-top: 10px;
+        font-size: 23px;
+        transition: 0.5s;
+        border-radius: 4px;
+    }
+    #skills .container {
+        padding: 0px 40px 0 40px;
+        padding-top: 0;
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px rgba(0,0,0,0.0);
+        background: rgba(225,225,225,0.0);
+        border-top: 1px solid rgba(225,225,225,0.0);
+        border-left: 1px solid rgba(225,225,225,0.0);
+    }
+    .maruf{
+        margin-bottom: 30px;
+    }
+    .about-content{
+        text-align: center;
+    }
+    .exp{
+        height: 450px;
+        width:400px ;
+        background: white;
+        color: #302c2c;
+        margin-top: 40px !important;
+        position: relative;
+        margin-bottom: 20px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .menu-bg ul li{
+        text-align: center;
+    }
+    .menu-bg{
+        background-color: rgb(19, 1, 19,0.8);
+    }
+    .navbar-nav li a::after {
+        height: 0px;
+        width: 0%;
+        left: 0;
+       
+    }
+    .exp{
+        height: 450px;
+        width:400px ;
+        background: white;
+        color: #302c2c;
+        margin-top: 30px !important;
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .about-content{
+        text-align: center;
+    }
+    .ruh:after{
+        height: 0px;
+    }
+    .name {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .name h2 {
+        padding-bottom: 5px;
+        font-size: 22px;
+    }
+    .name h1 {
+        font-size: 45px;
+    
+    }
+    .about-text{
+        padding: 40px 40px 40px 40px;
+     }
+    .name p {
+        padding-right: 82.5px;
+        font-size: 19px;
+        line-height: 27px;
+        padding-bottom: 10px;
+        padding-left: 82.5px;
+    }
+    .name h3 span {
+        font-size: 34px;
+    }
+    .name h3 {
+        font-size: 31px;
+    }
+    .ben-icon {
+        text-align: center;
+        padding-left: 180px;
+        margin-top: -140px;
+        z-index: 88;
+    }
+    .about-content h2 {
+        font-size: 22px;
+    }
+    .about-content h4 {
+        font-size: 17px;
+        font-family: raleway;
+    }
+    .legit {
+        padding-top: 0;
+    }
+    .imam .col-lg-4 {
+        flex: 0 0 auto;
+        width: 31.33333333%;
+        margin: 5.5px;
+    }
+    .imam{
+        padding-left: 19px;
+    }
+    .ami {
+        padding-top: 0px;
+        z-index: 22;
+    }
+    .about-text {
+        background: rgb(251, 24, 251);
+        font-size: 22px;
+        line-height: 33px;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        margin-left: 13px;
+        z-index: 22;
+    }
+    .about-btn a {
+        padding: 16px 25px;
+        color: white;
+        background-color: rgb(252, 21, 252);
+        margin-top: 10px;
+        font-size: 23px;
+        transition: 0.5s;
+        border-radius: 4px;margin-bottom: 20px;
+    }
+    .maruf{
+        margin-bottom: 30px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .menu-bg ul li a{
+        padding: 29px 10px !important;
+    }
+    .name {
+        padding-top: 30px;
+    }
+    .name h2 {
+        padding-bottom: 5px;
+        font-size: 22px;
+    }
+    .name h1 {
+        font-size: 45px;
+    
+    }
+    .skills-inner{
+        height: 200px;
+        width: 200px;
+        background: white;
+        margin-bottom: 30px;
+        border-radius: 50%;
+        border: 3px solid rgb(248, 11, 248);
+        color: black;
+        font-family: cursive;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .exp{
+        height: 450px;
+        width:400px ;
+        background: white;
+        color: #302c2c;
+        margin-top: 150px !important;
+        position: relative;
+    }
+    .name p {
+        padding-right: 159.5px;
+        font-size: 19px;
+        line-height: 27px;
+        padding-bottom: 30px;
+    
+    }
+    .name h3 span {
+        font-size: 34px;
+    }
+    .name h3 {
+        font-size: 31px;
+    }
+    .ben-icon {
+        text-align: center;
+        padding-left: 0px;
+        z-index: 88;
+    }
+    #benner {
+        padding: 120px 0 0 0;
+      
+    }
+    .about-text h1{
+        font-size: 29px;
+        transform: translateY(70px);
+    }
+   .about-text p{
+       font-size: 15px;
+   }
+   .imam .col-lg-4 {
+    flex: 0 0 auto;
+    width: 31.33333333%;
+    margin: 4px;
+   }
+   .about-btn a {
+	padding: 15px 28px;
+	color: white;
+	background-color: rgb(252, 21, 252);
+	margin-top: 20px;
+	font-size: 22px;
+	transition: 0.5s;
+	border-radius: 4px;
+    margin-bottom: 20px;
+    }
+    #skills .skill li {
+        margin: 10px 0;
+        padding: 10px;
+    }
+    .jannat {
+        padding-top: 40px;
+    }
+    .topper {
+        padding-top: 55px;
+    }
+
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .imam .col-lg-4 {
+        flex: 0 0 auto;
+        width: 31.33333333%;
+        margin: 5.5px;
+    }
+
+}
